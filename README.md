@@ -8,7 +8,7 @@
 Altio est une solution Full-Stack conçue pour optimiser la recherche d'alternance. Ce projet est une démonstration technique de déploiement d'une **infrastructure Cloud moderne** et sécurisée.
 
 ![Aperçu du Dashboard](assets/dashboard-overview.png)
-![Gestion des candidatures via Kanban](assets/app-kanban-view.png)
+![Gestion des candidatures via Kanban](assets/kanban-view.png)
 
 ## 🏗️ Administration & Infrastructure (Systèmes & Réseaux)
 C'est le cœur technique du projet. L'application a été bâtie selon les principes de haute disponibilité et de **Security by Design**.
